@@ -1,17 +1,17 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Simple Tip*
 
-**Name of your app** is a tip calculator application for iOS.
+**Simple Tip** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Aurelie Cordero**
 
-Time spent: **X** hours spent in total
+Time spent: **20** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+* [*] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [*] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
 The following **optional** features are implemented:
 
@@ -35,10 +35,13 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+Had trouble with the total per person.
+Wasn't able to learn how to connect the segmented control for the tip % in the settings page to the tip calculator.
+
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Aurelie Cordero]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
