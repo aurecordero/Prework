@@ -1,56 +1,26 @@
-# Pre-work - *Simple Tip*
+# Parstagram - Part I
 
-**Simple Tip** is a tip calculator application for iOS.
+This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
 
-Submitted by: **Aurelie Cordero**
-
-Time spent: **20** hours spent in total
+Time spent: 12 hours spent in total
 
 ## User Stories
 
-The following **required** functionality is complete:
+The following **required** functionality is completed:
 
-* [] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+- [x] User sees app icon in home screen and styled launch screen. (1pt)
+- [x] User can sign up to create a new account. (1pt)
+- [x] User can log in. (1pt)
+- [x] User can take a photo, add a caption, and post it to the server. (3pt)
+- [x] User can view the last 20 posts. (4pts)
 
-The following **optional** features are implemented:
+The following **bonus** features are implemented:
 
-* [ ] UI animations
-* [ ] Remembering the bill amount across app restarts (if <10mins)
-* [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
+- [ ] User can pull to refresh. (1pt)
+- [ ] User can load past posts infinitely. (2pts)
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
-## Notes
-
-Describe any challenges encountered while building the app.
-Had trouble with the total per person.
-Wasn't able to learn how to connect the segmented control for the tip % in the settings page to the tip calculator.
-
-
-## License
-
-    Copyright [2021] [Aurelie Cordero]
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+<img src='http://g.recordit.co/41LcsVTsFa.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
